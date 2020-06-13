@@ -1,0 +1,21 @@
+.navbar-default{
+	background-color: #f44336;
+}
+.navbar-brand a:hover{ 
+color:grey;
+}
+ .navbar-brand{ 	
+ 	color: white;
+
+font-size: 30px;
+}
+ .navbar-nav{
+ 	float: left;
+ }
+ nav a{
+  color: white;
+ }
+ footer{
+ 	background-color:#f44336 
+
+ }
